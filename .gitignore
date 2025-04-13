@@ -1,0 +1,25 @@
+# Hệ điều hành
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+!gradle-wrapper.jar
+
+# Cache
+/local.properties
+/captures/
+/*.log
+
+# Android Studio
+*.apk
+*.ap_
+*.dex
+
+# Keystore
+*.jks
